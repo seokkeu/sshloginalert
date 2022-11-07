@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# sessionAlert.sh_Update_2022-10-31
-# Dev:seokkeu00@gmail.com
+# Alert.sh_Update_2022-10-31
 
 SYSLOGSERVER="x.x.x.x" 
 SRV_HOSTNAME=$(hostname -f)
